@@ -3,12 +3,22 @@
 ## Demo: chatbot
 https://github.com/SojeongKim-42/monthlyLab/assets/78066907/a30b4a7c-32b9-4f4b-829c-2d4859a794ce
 
+## Demo: report
+https://www.notion.so/Monthly-Lab-14a72ce712604b20b4290105552b0393?pvs=4
+
+<img width="482" alt="스크린샷 2024-06-28 오후 4 16 50" src="https://github.com/SojeongKim-42/monthlyLab/assets/78066907/ab5c9c50-83c6-40db-b270-dff06389b791">
+<img width="491" alt="스크린샷 2024-06-28 오후 4 17 20" src="https://github.com/SojeongKim-42/monthlyLab/assets/78066907/aa145ac5-5e5d-42cc-b136-0b336d34b5e7">
+<img width="485" alt="스크린샷 2024-06-28 오후 4 17 36" src="https://github.com/SojeongKim-42/monthlyLab/assets/78066907/e968a1ab-1bef-48be-81ff-58bb65edc40f">
+
+... more pages in above link 
+
 
 ## Contents
 1. [Introduction](#Introduction)
 2. [Monthly Lab Project](#Monthly-Lab-Project)
 3. [Target](#Target)
 4. [Methodology](#Methodology)
+
 5. [Result](#Result)
 6. [Future Plan](#Future-plan) 
 7. [Team](#Team)
