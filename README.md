@@ -1,5 +1,8 @@
 # Monthly LAB - 연구 트렌드 분석 프로젝트
 
+## Demo: chatbot
+https://github.com/SojeongKim-42/monthlyLab/assets/78066907/a30b4a7c-32b9-4f4b-829c-2d4859a794ce
+
 
 ## Contents
 1. [Introduction](#Introduction)
@@ -11,6 +14,7 @@
 7. [Team](#Team)
 8. [Conclusion](#Conclusion)
    
+
 
 ## Introduction
 Monthly LAB의 목표는 연구 자금 분석을 통해 연구 트렌드를 객관적이고 다양하게 분석하는 것입니다. 
